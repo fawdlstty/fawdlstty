@@ -1,4 +1,14 @@
-### Hi there 👋
+### 技术栈
+
+- 🔭 Win32：MFC / duilib / Qt / WinForm / 浏览器窗口 / FFmpeg
+- 🌱 Web：HTML5 / JQuery / bootstrap / ASP.Net Core / WTM / FreeSql / cinatra
+- 👯 Python：selenium / requests
+
+### 联系方式
+
+QQ：1874293988
+
+欢迎交流
 
 <!--
 **fawdlstty/fawdlstty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
