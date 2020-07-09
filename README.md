@@ -1,26 +1,19 @@
 ### 技术栈
 
-- 🔭 Win32：MFC / duilib / Qt / WinForm / 浏览器窗口 / FFmpeg
-- 🌱 Web：HTML5 / JQuery / bootstrap / ASP.Net Core / WTM / FreeSql / cinatra
-- 👯 Python：selenium / requests
+- 🍎 C/C++
+  + Win32：纯API窗口 / MFC / duilib / Qt / 浏览器窗口
+  + 跨平台：FFmpeg / sqlpp11 / cinatra / sol2 (lua)
+- 🍐 C#
+  + Win32：WinForm
+  + 跨平台：WebForm / AspNetCore / WTM / FreeSql
+- 🍋 Python
+  + Selenium / Requests / mitmproxy
+- 🍌 Web
+  + HTML5 / JQuery / Bootstrap
+- 🍉 Assembly
+  + masm (Win32) / IL (.Net)
 
 ### 联系方式
 
-QQ：1874293988
-
+QQ：1874293988  
 欢迎交流
-
-<!--
-**fawdlstty/fawdlstty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
