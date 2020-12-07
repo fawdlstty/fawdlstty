@@ -3,9 +3,9 @@
 ## 开发环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-7800D6?style=flat&logo=centos&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-393?style=flat&logo=centos&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/DE-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat&logo=subversion&logoColor=white)
 
@@ -41,9 +41,9 @@
 
 ### 爬虫
 
-![[Python] Selenium](https://img.shields.io/badge/Python-Selenium-330033?style=flat)
-![[Python] Requests](https://img.shields.io/badge/Python-Requests-330066?style=flat)
-![[Python] mitmproxy](https://img.shields.io/badge/Python-mitmproxy-330099?style=flat)
+![[Python] Selenium](https://img.shields.io/badge/Python-Selenium-660033?style=flat)
+![[Python] Requests](https://img.shields.io/badge/Python-Requests-660066?style=flat)
+![[Python] mitmproxy](https://img.shields.io/badge/Python-mitmproxy-660099?style=flat)
 
 ## 统计
 
