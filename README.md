@@ -55,6 +55,16 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## PR Repos
+
+| 仓库 | Star |
+| --- | --- |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) |
+| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) |
+| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) |
+| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) |
+| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) |
+
 ## 联系方式
 
 QQ：1874293988
