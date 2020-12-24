@@ -57,13 +57,13 @@
 
 ## PR Repos
 
-| 仓库 | Star |
-| --- | --- |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) |
-| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) |
-| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) |
-| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) |
-| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) |
+| 仓库 | Star | 链接 |
+| --- | --- | --- |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) |
+| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) |
+| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) |
+| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) |
+| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) |
 
 ## 联系方式
 
