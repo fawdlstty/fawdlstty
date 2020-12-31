@@ -65,6 +65,7 @@
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) |
 | [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) |
 
-## 联系方式
+## 其他
 
-QQ：1874293988
+TODO：一个较大的开源项目  
+联系方式：QQ 1874293988
