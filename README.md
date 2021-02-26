@@ -32,7 +32,7 @@
 ![[C#] FreeSQL](https://img.shields.io/badge/-FreeSQL-3333cc?style=flat-square&logo=C-Sharp&logoColor=white)
 ![[C++] cinatra](https://img.shields.io/badge/-cinatra-3333ff?style=flat-square&logo=C%2b%2b&logoColor=white)
 
-### Web 前端
+<!-- ### Web 前端
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -43,12 +43,11 @@
 
 ![[Python] Selenium](https://img.shields.io/badge/-Selenium-336600?style=flat-square&logo=Python&logoColor=white)
 ![[Python] Requests](https://img.shields.io/badge/-Requests-339900?style=flat-square&logo=Python&logoColor=white)
-![[Python] mitmproxy](https://img.shields.io/badge/-mitmproxy-339933?style=flat-square&logo=Python&logoColor=white)
+![[Python] mitmproxy](https://img.shields.io/badge/-mitmproxy-339933?style=flat-square&logo=Python&logoColor=white) -->
 
 ### 语言底层
 
 ![masm](https://img.shields.io/badge/-masm32-660055?style=flat-square&logo=windows&logoColor=white)
-![IL](https://img.shields.io/badge/-IL-663388?style=flat-square&logo=.NET&logoColor=white)
 
 ## 统计
 
@@ -59,6 +58,7 @@
 
 | 仓库 | Star | 链接 |
 | --- | --- | --- |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors) |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) |
@@ -67,5 +67,4 @@
 
 ## 其他
 
-TODO：一个较大的开源项目  
 联系方式：QQ 1874293988
