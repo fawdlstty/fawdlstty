@@ -11,6 +11,11 @@
 
 ## 擅长领域
 
+### 编译器
+
+![[C++] Antlr4](https://img.shields.io/badge/C++-Antlr4-ef2e24?style=flat-square&logo=c%2b%2b&logoColor=white)
+![[C++] LLVM](https://img.shields.io/badge/C++-LLVM-666985?style=flat-square&logo=C%2b%2b&logoColor=white)
+
 ### 音视频
 
 ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white)
