@@ -16,7 +16,7 @@
 ![[C++] Antlr4](https://img.shields.io/badge/C++-Antlr4-ef2e24?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![[C++] LLVM](https://img.shields.io/badge/C++-LLVM-666985?style=flat-square&logo=C%2b%2b&logoColor=white)
 
-### 音视频
+### 音视频 / 图像
 
 ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white)
 ![[C++] GDI+](https://img.shields.io/badge/C++-GDI+-660066?style=flat-square&logo=C%2b%2b&logoColor=white)
@@ -50,7 +50,7 @@
 
 ## 统计
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&show_icons=true&count_private=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## PR Repos
