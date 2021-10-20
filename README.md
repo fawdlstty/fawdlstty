@@ -1,6 +1,6 @@
 # About Me
 
-## 开发环境
+## 环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
@@ -9,12 +9,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white)
 
-## 擅长领域
+## 技能树
 
 ### 编译器
 
 ![[C++] Antlr4](https://img.shields.io/badge/C++-Antlr4-ef2e24?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![[C++] LLVM](https://img.shields.io/badge/C++-LLVM-666985?style=flat-square&logo=C%2b%2b&logoColor=white)
+![masm32](https://img.shields.io/badge/Assembly-masm32-660055?style=flat-square&logo=windows&logoColor=white)
 
 ### 音视频 / 图像
 
@@ -37,21 +38,24 @@
 ![[C++] cinatra](https://img.shields.io/badge/C++-cinatra-3333ff?style=flat-square&logo=C%2b%2b&logoColor=white)
 
 <!--### 半擅长技术
+### Web 前端
 
-![Flutter](https://img.shields.io/badge/-Flutter-23BDFD?style=flat-square&logo=flutter&logoColor=white)
-![masm](https://img.shields.io/badge/-masm32-660055?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white)
+
+
+
+![Flutter](https://img.shields.io/badge/-Flutter-23BDFD?style=flat-square&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 ![[Python] Selenium](https://img.shields.io/badge/-Selenium-336600?style=flat-square&logo=Python&logoColor=white)
 ![[Python] Requests](https://img.shields.io/badge/-Requests-339933?style=flat-square&logo=Python&logoColor=white)-->
 
 ## 统计
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## PR Repos
 
