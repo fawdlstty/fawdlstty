@@ -46,8 +46,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-954e0f?style=flat-square&logo=windows&logoColor=white)
 
-
-
 <!--### 半擅长技术
 ![Flutter](https://img.shields.io/badge/-Flutter-23BDFD?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
@@ -56,8 +54,13 @@
 
 ## 统计
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_border=true&bg_color=00000000&text_color=c78944)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&langs_count=10&hide_border=true&bg_color=00000000&text_color=c78944&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+<!--      &hide_border=true
+[![github stats](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=28&bg_color=00000010&text_color=c78944)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000000&text_color=c78944)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=26&bg_color=00000010&text_color=c78944" align = "center"/>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000000&text_color=c78944" align = "center"/>
 
 ## PR Repos
 
