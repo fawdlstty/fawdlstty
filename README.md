@@ -58,7 +58,7 @@
 
 <p align="left">
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=23&bg_color=00000010&text_color=c78944" align = "center"/>
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000000&text_color=c78944" align = "center"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944" align = "center"/>
 </p>
 
 
