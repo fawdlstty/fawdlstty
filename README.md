@@ -2,7 +2,7 @@
 
 当前专注于：
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944)](https://github.com/fa-org/fa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/fa-org/fa)
 
 ## 环境
 
