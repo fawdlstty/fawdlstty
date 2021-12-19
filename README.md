@@ -1,5 +1,7 @@
 # 是 Fawdlstty！
 
+Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但是 Fawdlstty 的 Github 是怎么回事呢？下面就让小编带大家一起来了解一下吧~
+
 当前专注于：
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/fa-org/fa)
