@@ -40,7 +40,7 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [Contributors](https://github.com/nacos-group/nacos-sdk-cpp/graphs/contributors) | 新增特性 |
 | [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | 基础设施 | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | 新增特性 |
 
-## 更多关于我的信息
+## 其他信息
 
 - URL: [Fawdlstty 的博客](www.fawdlstty.com)
 - QQ: `1874293988`
