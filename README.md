@@ -8,7 +8,7 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/fa-org/fa)
 
-## 技能树
+## 技能清单
 
 | 类别 | 技能 |
 | :---: | :--- |
@@ -27,16 +27,18 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944" align = "center"/>
 </p>
 
-## PR Repos
+## 参与项目
 
-| 仓库 | Star | 链接 | 备注 |
-| --- | :---: | :---: | :---: |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | 新增特性 |
-| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | 修复bug |
-| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | 新增特性 |
-| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
-| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
+| 仓库 | 项目类别 | 星星 | 链接 | 备注 |
+| --- | :---: | :---: | :---: | :---: |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | 基础设施 | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | 新增特性 |
+| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | 修复bug |
+| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | 数据可视化 | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | 新增特性 |
+| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | 基础设施 | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
+| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | 基础设施 | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
+| [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [Contributors](https://github.com/nacos-group/nacos-sdk-cpp/graphs/contributors) | 新增特性 |
+| [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | 基础设施 | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | 新增特性 |
 
 ## 更多关于我的信息
 

@@ -8,7 +8,7 @@ Currently focus:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/fa-org/fa)
 
-## Skills Tree
+## Skill List
 
 | Type | Skills |
 | :---: | :--- |
@@ -31,14 +31,16 @@ Currently focus:
 
 ## PR Repos
 
-| Repo | Star | Link | Comment |
-| --- | :---: | :---: | :---: |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | New feature |
-| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | Fix bug |
-| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | New feature |
-| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
-| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
+| Repo | Type | Star | Link | Comment |
+| --- | :---: | :---: | :---: | :---: |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | Infrastructure | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | New feature |
+| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | Fix bug |
+| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | Data Visual | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | New feature |
+| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | Infrastructure | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
+| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | Infrastructure | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
+| [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | Distributed | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [Contributors](https://github.com/nacos-group/nacos-sdk-cpp/graphs/contributors) | New feature |
+| [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | Infrastructure | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | New feature |
 
 ## More about me
 
