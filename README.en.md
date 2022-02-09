@@ -14,7 +14,7 @@ Currently focus:
 | :---: | :--- |
 | Environment | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white) |
 | Compiler | ![[C++] Antlr4](https://img.shields.io/badge/C++-Antlr4-ef2e24?style=flat-square&logo=c%2b%2b&logoColor=white) ![[C++] LLVM](https://img.shields.io/badge/C++-LLVM-666985?style=flat-square&logo=C%2b%2b&logoColor=white) ![masm32](https://img.shields.io/badge/Assembly-masm32-660055?style=flat-square&logo=windows&logoColor=white) |
-| Multimedia | ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white) |
+| Audio/Video | ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white) |
 | Win32 | ![[C++] duilib](https://img.shields.io/badge/C++-duilib-006633?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C#] WinForm](https://img.shields.io/badge/C%23-WinForm-006666?style=flat-square&logo=.NET&logoColor=white) ![[C++] MFC](https://img.shields.io/badge/C++-MFC-006699?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C++] Qt5](https://img.shields.io/badge/C++-Qt5-0066cc?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C++] GDI+](https://img.shields.io/badge/C++-GDI+-660066?style=flat-square&logo=C%2b%2b&logoColor=white) |
 | Web backend | ![[C#] ASP.NET Core](https://img.shields.io/badge/C%23-ASP.NET_Core-333333?style=flat-square&logo=.NET&logoColor=white) ![[C#] WebForm](https://img.shields.io/badge/C%23-WebForm-333366?style=flat-square&logo=.NET&logoColor=white) ![[C#] WTM](https://img.shields.io/badge/C%23-WTM-333399?style=flat-square&logo=.NET&logoColor=white) ![[C#] FreeSQL](https://img.shields.io/badge/C%23-FreeSQL-3333cc?style=flat-square&logo=.NET&logoColor=white) ![[C++] cinatra](https://img.shields.io/badge/C++-cinatra-3333ff?style=flat-square&logo=C%2b%2b&logoColor=white) |
 | *(Used to be good)* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-954e0f?style=flat-square&logo=windows&logoColor=white) |
@@ -34,13 +34,13 @@ Currently focus:
 | Repo | Type | Star | Link | Comment |
 | --- | :---: | :---: | :---: | :---: |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | Infrastructure | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | New feature |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | New feature |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | Fix bug |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | Data Visual | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | New feature |
-| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | Infrastructure | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
-| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | Infrastructure | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
+| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | Test | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
+| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | Distributed | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [Contributors](https://github.com/nacos-group/nacos-sdk-cpp/graphs/contributors) | New feature |
-| [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | Infrastructure | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | New feature |
+| [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | - | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | New feature |
 
 ## Repo Navigator
 
@@ -55,22 +55,21 @@ Currently focus:
 | [HelloTye](https://github.com/fawdlstty/HelloTye) | ![](https://img.shields.io/github/stars/fawdlstty/HelloTye.svg?style=flat-square) | tye 简单使用 |
 | <b>AI</b> |  |  |
 | [hm_ML](https://github.com/fawdlstty/hm_ML) | ![](https://img.shields.io/github/stars/fawdlstty/hm_ML.svg?style=flat-square) | VS2013下 C++11 机器学习基础算法实现 |
-| <b>Multimedia</b> |  |  |
+| <b>Audio/Video</b> |  |  |
 | [FawCourse_FFmpeg](https://github.com/fawdlstty/FawCourse_FFmpeg) | ![](https://img.shields.io/github/stars/fawdlstty/FawCourse_FFmpeg.svg?style=flat-square) | ffmpeg教程，非命令行模式 |
-| <b>Direct UI</b> |  |  |
+| <b style="white-space: nowrap;">Direct UI / GDI+ Animation</b> |  |  |
 | [NetToolbox](https://github.com/fawdlstty/NetToolbox) | ![](https://img.shields.io/github/stars/fawdlstty/NetToolbox.svg?style=flat-square) | 易大师网络工具箱 |
 | [DuiLib_Faw](https://github.com/fawdlstty/DuiLib_Faw) | ![](https://img.shields.io/github/stars/fawdlstty/DuiLib_Faw.svg?style=flat-square) | DuiLib项目个人维护版本，回归std::string，使用C++20，支持控件绑定 |
 | [SVGAPlayer-Gdip](https://github.com/fawdlstty/SVGAPlayer-Gdip) | ![](https://img.shields.io/github/stars/fawdlstty/SVGAPlayer-Gdip.svg?style=flat-square) | 基于 GDI+ 的 SVGA 解析库 |
 | [hm_QRcode](https://github.com/fawdlstty/hm_QRcode) | ![](https://img.shields.io/github/stars/fawdlstty/hm_QRcode.svg?style=flat-square) | VS2013下 动图二维码生成器 |
-| <b>Web</b> |  |  |
-| [PureIM](https://github.com/fawdlstty/PureIM) | ![](https://img.shields.io/github/stars/fawdlstty/PureIM.svg?style=flat-square) | 基于.NET实现的IM服务器，致力于实现高承载能力下的稳定服务 |
-| [GitServerCore](https://github.com/fawdlstty/GitServerCore) | ![](https://img.shields.io/github/stars/fawdlstty/GitServerCore.svg?style=flat-square) | 通过 .NET 实现 Git 服务端（通过http(s)实现克隆、推送等） |
-| [Sparrow](https://github.com/fawdlstty/Sparrow) | ![](https://img.shields.io/github/stars/fawdlstty/Sparrow.svg?style=flat-square) | Web服务端实现，支持 rpc、websocket、swagger 及 monitor |
-| <b>Infrastructure</b> |  |  |
+| <b>Other</b> |  |  |
 | [taskpool](https://github.com/fawdlstty/taskpool) | ![](https://img.shields.io/github/stars/fawdlstty/taskpool.svg?style=flat-square) | Modern C++ 任务池，纯同步方式实现完全等价于 async/await 的效果 |
 | [SMLite](https://github.com/fawdlstty/SMLite) | ![](https://img.shields.io/github/stars/fawdlstty/SMLite.svg?style=flat-square) | 支持 C, C++, C#, Java, JavaScript, Python, VB.Net 语言的状态机库 |
 | [IpQuery_QQWry](https://github.com/fawdlstty/IpQuery_QQWry) | ![](https://img.shields.io/github/stars/fawdlstty/IpQuery_QQWry.svg?style=flat-square) | 纯真IP数据库查询（C++、C#） |
 | [FawLib](https://github.com/fawdlstty/FawLib) | ![](https://img.shields.io/github/stars/fawdlstty/FawLib.svg?style=flat-square) | C++公共支持库 |
+| [PureIM](https://github.com/fawdlstty/PureIM) | ![](https://img.shields.io/github/stars/fawdlstty/PureIM.svg?style=flat-square) | 基于.NET实现的IM服务器，致力于实现高承载能力下的稳定服务 |
+| [GitServerCore](https://github.com/fawdlstty/GitServerCore) | ![](https://img.shields.io/github/stars/fawdlstty/GitServerCore.svg?style=flat-square) | 通过 .NET 实现 Git 服务端（通过http(s)实现克隆、推送等） |
+| [Sparrow](https://github.com/fawdlstty/Sparrow) | ![](https://img.shields.io/github/stars/fawdlstty/Sparrow.svg?style=flat-square) | Web服务端实现，支持 rpc、websocket、swagger 及 monitor |
 | [some_tools](https://github.com/fawdlstty/some_tools) | ![](https://img.shields.io/github/stars/fawdlstty/some_tools.svg?style=flat-square) | 收集自己整理的各种零散功能 |
 | [ado_access](https://github.com/fawdlstty/ado_access) | ![](https://img.shields.io/github/stars/fawdlstty/ado_access.svg?style=flat-square) | VS2013下 ado对象模型访问框架 |
 | [hanXmlLib](https://github.com/fawdlstty/hanXmlLib) | ![](https://img.shields.io/github/stars/fawdlstty/hanXmlLib.svg?style=flat-square) | 一个简单的XML访问库 |
