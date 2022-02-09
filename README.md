@@ -14,8 +14,8 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 | :---: | :--- |
 | 环境 | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white) |
 | 编译器 | ![[C++] Antlr4](https://img.shields.io/badge/C++-Antlr4-ef2e24?style=flat-square&logo=c%2b%2b&logoColor=white) ![[C++] LLVM](https://img.shields.io/badge/C++-LLVM-666985?style=flat-square&logo=C%2b%2b&logoColor=white) ![masm32](https://img.shields.io/badge/Assembly-masm32-660055?style=flat-square&logo=windows&logoColor=white) |
-| 音视频 | ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white) ![[C++] GDI+](https://img.shields.io/badge/C++-GDI+-660066?style=flat-square&logo=C%2b%2b&logoColor=white) |
-| Win32 | ![[C++] duilib](https://img.shields.io/badge/C++-duilib-006633?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C#] WinForm](https://img.shields.io/badge/C%23-WinForm-006666?style=flat-square&logo=.NET&logoColor=white) ![[C++] MFC](https://img.shields.io/badge/C++-MFC-006699?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C++] Qt5](https://img.shields.io/badge/C++-Qt5-0066cc?style=flat-square&logo=C%2b%2b&logoColor=white) |
+| 音视频 | ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white) |
+| Win32 | ![[C++] duilib](https://img.shields.io/badge/C++-duilib-006633?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C#] WinForm](https://img.shields.io/badge/C%23-WinForm-006666?style=flat-square&logo=.NET&logoColor=white) ![[C++] MFC](https://img.shields.io/badge/C++-MFC-006699?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C++] Qt5](https://img.shields.io/badge/C++-Qt5-0066cc?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C++] GDI+](https://img.shields.io/badge/C++-GDI+-660066?style=flat-square&logo=C%2b%2b&logoColor=white) |
 | Web 后端 | ![[C#] ASP.NET Core](https://img.shields.io/badge/C%23-ASP.NET_Core-333333?style=flat-square&logo=.NET&logoColor=white) ![[C#] WebForm](https://img.shields.io/badge/C%23-WebForm-333366?style=flat-square&logo=.NET&logoColor=white) ![[C#] WTM](https://img.shields.io/badge/C%23-WTM-333399?style=flat-square&logo=.NET&logoColor=white) ![[C#] FreeSQL](https://img.shields.io/badge/C%23-FreeSQL-3333cc?style=flat-square&logo=.NET&logoColor=white) ![[C++] cinatra](https://img.shields.io/badge/C++-cinatra-3333ff?style=flat-square&logo=C%2b%2b&logoColor=white) |
 | *(以前擅长)* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-954e0f?style=flat-square&logo=windows&logoColor=white) |
 <!--| 半擅长技术 | ![Flutter](https://img.shields.io/badge/-Flutter-23BDFD?style=flat-square&logo=flutter&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white) ![[Python] Selenium](https://img.shields.io/badge/-Selenium-336600?style=flat-square&logo=Python&logoColor=white) ![[Python] Requests](https://img.shields.io/badge/-Requests-339933?style=flat-square&logo=Python&logoColor=white) |-->
@@ -27,10 +27,10 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944" align = "center"/>
 </p>
 
-## 参与项目
+## 参与的项目
 
 | 仓库 | 项目类别 | 星星 | 链接 | 备注 |
-| --- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :---: |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
 | [gabime/spdlog](https://github.com/gabime/spdlog) | 基础设施 | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | 新增特性 |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | 修复bug |
@@ -39,6 +39,39 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | 基础设施 | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [Contributors](https://github.com/nacos-group/nacos-sdk-cpp/graphs/contributors) | 新增特性 |
 | [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | 基础设施 | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | 新增特性 |
+
+## 项目导航
+
+| 仓库 | 星星 | 描述 |
+| :--- | :---: | :--- |
+| <h3>编译器</h3> |  |  |
+| [fa-org/fa](https://github.com/fa-org/fa) | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
+| [Facc](https://github.com/fawdlstty/Facc) | ![](https://img.shields.io/github/stars/fawdlstty/Facc.svg?style=flat-square) | 基于 .NET 5 的自制语言的工具，通过语法描述文法，自动生成AST代码 |
+| [FawPy](https://github.com/fawdlstty/FawPy) | ![](https://img.shields.io/github/stars/fawdlstty/FawPy.svg?style=flat-square) | a project to translate python code to cpp code |
+| <h3>分布式</h3> |  |  |
+| [SimpleMS](https://github.com/fawdlstty/SimpleMS) | ![](https://img.shields.io/github/stars/fawdlstty/SimpleMS.svg?style=flat-square) | 基于 .Net Core 3.1 的微服务框架，支持负载均衡、RPC与定制网关 |
+| [HelloTye](https://github.com/fawdlstty/HelloTye) | ![](https://img.shields.io/github/stars/fawdlstty/HelloTye.svg?style=flat-square) | 一键部署运行分布式服务工具 tye 使用案例 |
+| <h3>AI</h3> |  |  |
+| [hm_ML](https://github.com/fawdlstty/hm_ML) | ![](https://img.shields.io/github/stars/fawdlstty/hm_ML.svg?style=flat-square) | VS2013下 C++11 机器学习基础算法实现 |
+| <h3>音视频</h3> |  |  |
+| [FawCourse_FFmpeg](https://github.com/fawdlstty/FawCourse_FFmpeg) | ![](https://img.shields.io/github/stars/fawdlstty/FawCourse_FFmpeg.svg?style=flat-square) | ffmpeg教程，非命令行模式 |
+| <h3>Direct UI</h3> |  |  |
+| [NetToolbox](https://github.com/fawdlstty/NetToolbox) | ![](https://img.shields.io/github/stars/fawdlstty/NetToolbox.svg?style=flat-square) | 易大师网络工具箱 |
+| [DuiLib_Faw](https://github.com/fawdlstty/DuiLib_Faw) | ![](https://img.shields.io/github/stars/fawdlstty/DuiLib_Faw.svg?style=flat-square) | DuiLib项目个人维护版本，回归std::string，使用C++20，支持控件绑定 |
+| [SVGAPlayer-Gdip](https://github.com/fawdlstty/SVGAPlayer-Gdip) | ![](https://img.shields.io/github/stars/fawdlstty/SVGAPlayer-Gdip.svg?style=flat-square) | 基于 GDI+ 的 SVGA 解析库 |
+| [hm_QRcode](https://github.com/fawdlstty/hm_QRcode) | ![](https://img.shields.io/github/stars/fawdlstty/hm_QRcode.svg?style=flat-square) | VS2013下 动图二维码生成器 |
+| <h3>Web单体</h3> |  |  |
+| [PureIM](https://github.com/fawdlstty/PureIM) | ![](https://img.shields.io/github/stars/fawdlstty/PureIM.svg?style=flat-square) | 基于.NET实现的IM服务器，致力于实现高承载能力下的稳定服务 |
+| [GitServerCore](https://github.com/fawdlstty/GitServerCore) | ![](https://img.shields.io/github/stars/fawdlstty/GitServerCore.svg?style=flat-square) | 通过 .NET 实现 Git 服务端（通过http(s)实现克隆、推送等） |
+| [Sparrow](https://github.com/fawdlstty/Sparrow) | ![](https://img.shields.io/github/stars/fawdlstty/Sparrow.svg?style=flat-square) | Web服务端实现，支持 rpc、websocket、swagger 及 monitor |
+| <h3>基础设施</h3> |  |  |
+| [taskpool](https://github.com/fawdlstty/taskpool) | ![](https://img.shields.io/github/stars/fawdlstty/taskpool.svg?style=flat-square) | Modern C++ 任务池，纯同步方式实现完全等价于 async/await 的效果 |
+| [SMLite](https://github.com/fawdlstty/SMLite) | ![](https://img.shields.io/github/stars/fawdlstty/SMLite.svg?style=flat-square) | 支持 C, C++, C#, Java, JavaScript, Python, VB.Net 语言的状态机库 |
+| [IpQuery_QQWry](https://github.com/fawdlstty/IpQuery_QQWry) | ![](https://img.shields.io/github/stars/fawdlstty/IpQuery_QQWry.svg?style=flat-square) | 纯真IP数据库查询（C++、C#） |
+| [FawLib](https://github.com/fawdlstty/FawLib) | ![](https://img.shields.io/github/stars/fawdlstty/FawLib.svg?style=flat-square) | C++公共支持库 |
+| [some_tools](https://github.com/fawdlstty/some_tools) | ![](https://img.shields.io/github/stars/fawdlstty/some_tools.svg?style=flat-square) | 收集自己整理的各种零散功能 |
+| [ado_access](https://github.com/fawdlstty/ado_access) | ![](https://img.shields.io/github/stars/fawdlstty/ado_access.svg?style=flat-square) | VS2013下 ado对象模型访问框架 |
+| [hanXmlLib](https://github.com/fawdlstty/hanXmlLib) | ![](https://img.shields.io/github/stars/fawdlstty/hanXmlLib.svg?style=flat-square) | 一个简单的XML访问库 |
 
 ## 其他信息
 
