@@ -24,7 +24,7 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 
 <p align="left">
 <img height="190px" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" align = "center"/>
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944" align = "center"/>
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" align = "center"/>
 </p>
 
 ## 参与项目
