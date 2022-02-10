@@ -31,9 +31,9 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 
 | 仓库 | 项目类别 | 星星 | 链接 | 备注 |
 | :--- | :---: | :---: | :---: | :---: |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) :star: | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) :star: | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
 | [gabime/spdlog](https://github.com/gabime/spdlog) :star: | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | 新增特性 |
-| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | 修复bug |
+| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | 人工智能 | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | 修复bug |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | 数据可视化 | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | 新增特性 |
 | [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | 测试 | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
@@ -51,7 +51,7 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 | <b>分布式</b> |  |  |
 | [SimpleMS](https://github.com/fawdlstty/SimpleMS) :blush: | ![](https://img.shields.io/github/stars/fawdlstty/SimpleMS.svg?style=flat-square) | 基于 .Net Core 3.1 的微服务框架，支持负载均衡、RPC与定制网关 |
 | [HelloTye](https://github.com/fawdlstty/HelloTye) | ![](https://img.shields.io/github/stars/fawdlstty/HelloTye.svg?style=flat-square) | 一键部署运行分布式服务工具 tye 使用案例 |
-| <b>AI</b> |  |  |
+| <b>人工智能</b> |  |  |
 | [hm_ML](https://github.com/fawdlstty/hm_ML) | ![](https://img.shields.io/github/stars/fawdlstty/hm_ML.svg?style=flat-square) | VS2013下 C++11 机器学习基础算法实现 |
 | <b>音视频</b> |  |  |
 | [FawCourse_FFmpeg](https://github.com/fawdlstty/FawCourse_FFmpeg) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/FawCourse_FFmpeg.svg?style=flat-square) | ffmpeg教程，非命令行模式 |
