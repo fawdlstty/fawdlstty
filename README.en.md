@@ -73,9 +73,3 @@ Currently focus:
 | [some_tools](https://github.com/fawdlstty/some_tools) | ![](https://img.shields.io/github/stars/fawdlstty/some_tools.svg?style=flat-square) | 收集自己整理的各种零散功能 |
 | [ado_access](https://github.com/fawdlstty/ado_access) | ![](https://img.shields.io/github/stars/fawdlstty/ado_access.svg?style=flat-square) | VS2013下 ado对象模型访问框架 |
 | [hanXmlLib](https://github.com/fawdlstty/hanXmlLib) | ![](https://img.shields.io/github/stars/fawdlstty/hanXmlLib.svg?style=flat-square) | 一个简单的XML访问库 |
-
-## More about me
-
-- URL: [Fawdlstty's Blog](www.fawdlstty.com)
-- QQ: `1874293988`
-- Email: `f#fawdlstty.com` (`#` -> `@`)
