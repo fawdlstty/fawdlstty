@@ -73,3 +73,8 @@ Currently focus:
 | [some_tools](https://github.com/fawdlstty/some_tools) | ![](https://img.shields.io/github/stars/fawdlstty/some_tools.svg?style=flat-square) | 收集自己整理的各种零散功能 |
 | [ado_access](https://github.com/fawdlstty/ado_access) | ![](https://img.shields.io/github/stars/fawdlstty/ado_access.svg?style=flat-square) | VS2013下 ado对象模型访问框架 |
 | [hanXmlLib](https://github.com/fawdlstty/hanXmlLib) | ![](https://img.shields.io/github/stars/fawdlstty/hanXmlLib.svg?style=flat-square) | 一个简单的XML访问库 |
+
+## Tell me something in secret
+
+PGP Public Key: [A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C)  
+Usage: Install and run gpg4win, import public key, encrypt, send to email, perfect
