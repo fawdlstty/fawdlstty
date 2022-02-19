@@ -6,7 +6,10 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 
 Currently focus:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/fa-org/fa)
+<p align="left">
+<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" align = "center"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" align = "center"/>
+</p>
 
 ## Environment
 
@@ -52,6 +55,7 @@ Currently focus:
 | :--- | :---: | :--- |
 | <b>Compiler</b> |  |  |
 | [fa-org/fa](https://github.com/fa-org/fa) :heart: | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
+| [fawdlstty/fascript](https://github.com/fawdlstty/fascript) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
 | [Facc](https://github.com/fawdlstty/Facc) | ![](https://img.shields.io/github/stars/fawdlstty/Facc.svg?style=flat-square) | 基于 .NET 5 的自制语言的工具，通过语法描述文法，自动生成AST代码 |
 | [FawPy](https://github.com/fawdlstty/FawPy) | ![](https://img.shields.io/github/stars/fawdlstty/FawPy.svg?style=flat-square) | a project to translate python code to cpp code |
 | <b>Distributed</b> |  |  |
