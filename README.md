@@ -6,7 +6,10 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 
 当前专注于：
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/fa-org/fa)
+<p align="left">
+<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" align = "center"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944&show_owner=true" align = "center"/>
+</p>
 
 ## 环境
 
