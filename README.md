@@ -34,14 +34,15 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 
 | 仓库 | 项目类别 | 星星 | 链接 | 备注 |
 | :--- | :---: | :---: | :---: | :---: |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) :star: | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [Contributors](https://github.com/Tencent/ncnn/graphs/contributors) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) :star: | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [Contributors](https://github.com/gabime/spdlog/graphs/contributors)、[Version 1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) | 新增特性 |
-| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | 人工智能 | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [Contributors](https://github.com/zuoqing1988/ZQCNN/graphs/contributors) | 修复bug |
-| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | 数据可视化 | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [Contributors](https://github.com/dotnetcore/HttpReports/graphs/contributors) | 新增特性 |
-| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | 测试 | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [Contributors](https://github.com/rigaya/NVEnc/graphs/contributors) | - |
-| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [Contributors](https://github.com/samuelneff/MimeTypeMap/graphs/contributors) | - |
-| [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [Contributors](https://github.com/nacos-group/nacos-sdk-cpp/graphs/contributors) | 新增特性 |
-| [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | - | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [Contributors](https://github.com/xmh0511/xfinal/graphs/contributors) | 新增特性 |
+| [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 包管理器 | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | 新增特性 [v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
+| [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | 人工智能 | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [#163](https://github.com/zuoqing1988/ZQCNN/pull/163)、[#165](https://github.com/zuoqing1988/ZQCNN/pull/165) | 修复 bug |
+| [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | 数据可视化 | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [#31](https://github.com/dotnetcore/HttpReports/pull/31) | 新增特性 |
+| [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | 测试 | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [#180](https://github.com/rigaya/NVEnc/pull/180) | - |
+| [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [#116](https://github.com/samuelneff/MimeTypeMap/pull/116) | - |
+| [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [#62](https://github.com/nacos-group/nacos-sdk-cpp/pull/62) | 新增特性 |
+| [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | - | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [#7](https://github.com/xmh0511/xfinal/pull/7) | 新增特性 |
 
 ## 项目导航
 
