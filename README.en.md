@@ -7,8 +7,8 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 Currently focus:
 
 <p>
-<a href="https://github.com/fa-org/fa"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-<a href="https://github.com/fawdlstty/fascript"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
+<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
+<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
 </p>
 
 ## Environment
@@ -28,11 +28,9 @@ Currently focus:
 
 ## Statistics
 
-<!--      &hide_border=true           -->
-
-<p align="left">
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=en&line_height=24&bg_color=00000010&text_color=c78944" />
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
 
 ## Pull Requests
