@@ -6,9 +6,9 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 
 当前专注于：
 
-<p align="left">
-<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" align = "center"/>
-<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" align = "center"/>
+<p>
+<a href="https://github.com/fa-org/fa"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
+<a href="https://github.com/fawdlstty/fascript"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
 </p>
 
 ## 环境
@@ -33,13 +33,13 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" align = "center"/>
 </p>
 
-## 参与项目 (PR)
+## 参与贡献 (PR)
 
 | 仓库 | 项目类别 | 星星 | 链接 | 备注 |
 | :--- | :---: | :---: | :---: | :---: |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 包管理器 | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | 新增特性 [v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | 新增特性、[v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | 人工智能 | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [#163](https://github.com/zuoqing1988/ZQCNN/pull/163)、[#165](https://github.com/zuoqing1988/ZQCNN/pull/165) | 修复 bug |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | 数据可视化 | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [#31](https://github.com/dotnetcore/HttpReports/pull/31) | 新增特性 |
 | [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | 测试 | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [#180](https://github.com/rigaya/NVEnc/pull/180) | - |
@@ -53,7 +53,7 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 | :--- | :---: | :--- |
 | <b>编译器</b> |  |  |
 | [fa-org/fa](https://github.com/fa-org/fa) :heart: | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
-| [fawdlstty/fascript](https://github.com/fawdlstty/fascript) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
+| [fascript](https://github.com/fawdlstty/fascript) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
 | [Facc](https://github.com/fawdlstty/Facc) | ![](https://img.shields.io/github/stars/fawdlstty/Facc.svg?style=flat-square) | 基于 .NET 5 的自制语言的工具，通过语法描述文法，自动生成AST代码 |
 | [FawPy](https://github.com/fawdlstty/FawPy) | ![](https://img.shields.io/github/stars/fawdlstty/FawPy.svg?style=flat-square) | a project to translate python code to cpp code |
 | <b>分布式</b> |  |  |
@@ -83,4 +83,3 @@ Fawdlstty 的 Github 是怎么回事呢？相信大家都很熟悉 Github，但�
 ## 告诉我一些悄悄话
 
 PGP公钥：[A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C)  
-用法：安装运行gpg4win，导入上述证书，对悄悄话加密，发送邮件，完美

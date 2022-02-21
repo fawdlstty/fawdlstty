@@ -6,9 +6,9 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 
 Currently focus:
 
-<p align="left">
-<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" align = "center"/>
-<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" align = "center"/>
+<p>
+<a href="https://github.com/fa-org/fa"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
+<a href="https://github.com/fawdlstty/fascript"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
 </p>
 
 ## Environment
@@ -31,8 +31,8 @@ Currently focus:
 <!--      &hide_border=true           -->
 
 <p align="left">
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=en&line_height=24&bg_color=00000010&text_color=c78944" align = "center"/>
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" align = "center"/>
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=en&line_height=24&bg_color=00000010&text_color=c78944" />
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
 
 ## Pull Requests
@@ -41,7 +41,7 @@ Currently focus:
 | --- | :---: | :---: | :---: | :---: |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | Package Manager | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | New feature [v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | New feature, [v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [#163](https://github.com/zuoqing1988/ZQCNN/pull/163), [#165](https://github.com/zuoqing1988/ZQCNN/pull/165) | Fix bug |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | Data Visualization | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [#31](https://github.com/dotnetcore/HttpReports/pull/31) | New feature |
 | [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | Test | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [#180](https://github.com/rigaya/NVEnc/pull/180) | - |
@@ -55,7 +55,7 @@ Currently focus:
 | :--- | :---: | :--- |
 | <b>Compiler</b> |  |  |
 | [fa-org/fa](https://github.com/fa-org/fa) :heart: | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
-| [fawdlstty/fascript](https://github.com/fawdlstty/fascript) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
+| [fascript](https://github.com/fawdlstty/fascript) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
 | [Facc](https://github.com/fawdlstty/Facc) | ![](https://img.shields.io/github/stars/fawdlstty/Facc.svg?style=flat-square) | 基于 .NET 5 的自制语言的工具，通过语法描述文法，自动生成AST代码 |
 | [FawPy](https://github.com/fawdlstty/FawPy) | ![](https://img.shields.io/github/stars/fawdlstty/FawPy.svg?style=flat-square) | a project to translate python code to cpp code |
 | <b>Distributed</b> |  |  |
@@ -85,4 +85,3 @@ Currently focus:
 ## Tell me something in secret
 
 PGP Public Key: [A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C)  
-Usage: Install and run gpg4win, import public key, encrypt, send to email, perfect
