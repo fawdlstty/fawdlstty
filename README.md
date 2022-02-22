@@ -2,6 +2,8 @@
 
 简体中文 | [English](./README.en.md)
 
+![rice_shower](imgs/rice_shower.jpg)
+
 Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但是 Fawdlstty 的 Github 是怎么会事呢？下面就让小编带大家一起来了解一下吧~
 
 当前专注于：

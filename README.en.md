@@ -2,6 +2,8 @@
 
 [简体中文](./README.md) | English
 
+![rice_shower](imgs/rice_shower.jpg)
+
 How about Fawdlstty's Github? I believe we're all familiar with Github, but what about Fawdlstty's Github? Let the following me take you to understand it~  
 
 Currently focus:
