@@ -35,7 +35,7 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 ## 参与贡献 (PR)
 
-| 仓库 | 项目类别 | 星星 | 链接 | 备注 |
+| 仓库 | 项目类别 | 星星 | 链接 | 备注（- 代表非技术性贡献） |
 | :--- | :---: | :---: | :---: | :---: |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 包管理器 | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |

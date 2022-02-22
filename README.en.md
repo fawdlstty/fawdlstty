@@ -35,7 +35,7 @@ Currently focus:
 
 ## Pull Requests
 
-| Repo | Type | Star | Link | Comment |
+| Repo | Type | Star | Link | Comment (- Means non-technical PR) |
 | --- | :---: | :---: | :---: | :---: |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | Package Manager | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
