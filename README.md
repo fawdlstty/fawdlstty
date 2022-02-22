@@ -1,8 +1,8 @@
 # 是 Fawdlstty！
 
-简体中文 | [English](./README.en.md)
+<img align="right" src="imgs/rice_shower.jpg" />
 
-![rice_shower](imgs/rice_shower.jpg)
+简体中文 | [English](./README.en.md)
 
 Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但是 Fawdlstty 的 Github 是怎么会事呢？下面就让小编带大家一起来了解一下吧~
 

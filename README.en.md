@@ -1,8 +1,8 @@
 # Hi Fawdlstty!
 
-[简体中文](./README.md) | English
+<img align="right" src="imgs/rice_shower.jpg" />
 
-![rice_shower](imgs/rice_shower.jpg)
+[简体中文](./README.md) | English
 
 How about Fawdlstty's Github? I believe we're all familiar with Github, but what about Fawdlstty's Github? Let the following me take you to understand it~  
 
