@@ -39,7 +39,7 @@ Currently focus:
 | --- | :---: | :---: | :---: | :---: |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | Package Manager | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | AI | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | New feature, [v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | Logging | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | New feature, [v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | AI | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [#163](https://github.com/zuoqing1988/ZQCNN/pull/163), [#165](https://github.com/zuoqing1988/ZQCNN/pull/165) | Fix bug |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | Data Visualization | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [#31](https://github.com/dotnetcore/HttpReports/pull/31) | New feature |
 | [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | Test | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [#180](https://github.com/rigaya/NVEnc/pull/180) | - |
