@@ -53,9 +53,11 @@ Currently focus:
 
 | Repo | Star | Description |
 | :--- | :---: | :--- |
+| <b>Fun</b> |  |  |
+| [poems](https://github.com/fawdlstty/poems) :notes: | ![](https://img.shields.io/github/stars/fawdlstty/poems.svg?style=flat-square) | 计算机系诗歌，贴出来大家一起乐呵乐呵 |
 | <b>Compiler</b> |  |  |
-| [fa-org/fa](https://github.com/fa-org/fa) :heart: | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
-| [fascript](https://github.com/fawdlstty/fascript) :heart: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
+| [fa-org/fa](https://github.com/fa-org/fa) :rabbit: | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
+| [fascript](https://github.com/fawdlstty/fascript) :bird: | ![](https://img.shields.io/github/stars/fawdlstty/fascript.svg?style=flat-square) | fascript 脚本语言 |
 | [Facc](https://github.com/fawdlstty/Facc) | ![](https://img.shields.io/github/stars/fawdlstty/Facc.svg?style=flat-square) | 基于 .NET 5 的自制语言的工具，通过语法描述文法，自动生成AST代码 |
 | [FawPy](https://github.com/fawdlstty/FawPy) | ![](https://img.shields.io/github/stars/fawdlstty/FawPy.svg?style=flat-square) | a project to translate python code to cpp code |
 | <b>Distributed</b> |  |  |
