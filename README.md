@@ -39,7 +39,7 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 | 仓库 | 项目类别 | 星星 | 链接 | 备注（- 代表非技术性贡献） |
 | :--- | :---: | :---: | :---: | :---: |
-| [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 包管理器 | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120) | - |
+| [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 包管理器 | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120)、[#23179](https://github.com/microsoft/vcpkg/pull/23179) | - |
 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
 | [gabime/spdlog](https://github.com/gabime/spdlog) | 日志库 | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | 新增特性、[v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | 人工智能 | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [#163](https://github.com/zuoqing1988/ZQCNN/pull/163)、[#165](https://github.com/zuoqing1988/ZQCNN/pull/165) | 修复 bug |
