@@ -6,14 +6,7 @@
 
 Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但是 Fawdlstty 的 Github 是怎么会事呢？下面就让小编带大家一起来了解一下吧~
 
-当前专注于：
-
-<p>
-<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
-</p>
-
-## 统计
+统计:
 
 <p>
 <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
@@ -83,6 +76,13 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | [some_tools](https://github.com/fawdlstty/some_tools) | ![](https://img.shields.io/github/stars/fawdlstty/some_tools.svg?style=flat-square) | 收集自己整理的各种零散功能 |
 | [ado_access](https://github.com/fawdlstty/ado_access) | ![](https://img.shields.io/github/stars/fawdlstty/ado_access.svg?style=flat-square) | VS2013下 ado对象模型访问框架 |
 | [hanXmlLib](https://github.com/fawdlstty/hanXmlLib) | ![](https://img.shields.io/github/stars/fawdlstty/hanXmlLib.svg?style=flat-square) | 一个简单的XML访问库 |
+
+## 当前专注于
+
+<p>
+<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
+<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
+</p>
 
 ## 告诉我一些悄悄话
 
