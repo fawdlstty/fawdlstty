@@ -13,6 +13,13 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 <a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
 </p>
 
+## 统计
+
+<p>
+<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+</p>
+
 ## 环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white) ![SQLite3](https://img.shields.io/badge/-SQLite3-0d7eca?style=flat-square&logo=sqlite&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-36954f?style=flat-square&logo=nginx&logoColor=white) ![lua](https://img.shields.io/badge/-lua-030380?style=flat-square&logo=lua&logoColor=white)
@@ -27,13 +34,6 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | Web 后端 | ![[C#] WebForm](https://img.shields.io/badge/C%23-WebForm-1c93cd?style=flat-square&logo=.NET&logoColor=white) ![[C#] WTM](https://img.shields.io/badge/C%23-WTM-5c99ff?style=flat-square&logo=.NET&logoColor=white) ![[C#] FreeSQL](https://img.shields.io/badge/C%23-FreeSQL-f68243?style=flat-square&logo=.NET&logoColor=white) ![[C++] cinatra](https://img.shields.io/badge/C++-cinatra-00681c?style=flat-square&logo=C%2b%2b&logoColor=white) |
 | *前端* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) |
 | *爬虫* | ![[C++] Wke](https://img.shields.io/badge/C++-Wke-426166?style=flat-square&logo=C%2b%2b&logoColor=white) ![[Python] Requests](https://img.shields.io/badge/Python-Requests-333333?style=flat-square&logo=Python&logoColor=white) ![[Python] Selenium](https://img.shields.io/badge/Python-Selenium-43ae2a?style=flat-square&logo=Python&logoColor=white) |
-
-## 统计
-
-<p>
-<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
-</p>
 
 ## 参与贡献 (PR)
 
