@@ -86,4 +86,5 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 ## 告诉我一些悄悄话
 
-PGP公钥：[A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C)  
+<!--https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C-->
+PGP公钥：[A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://raw.githubusercontent.com/fawdlstty/fawdlstty/master/A2E75A4FADAABBF350EAC21430777113C577FD6C.asc)

@@ -86,4 +86,5 @@ Currently focus:
 
 ## Tell me something in secret
 
-PGP Public Key: [A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C)  
+<!--https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C-->
+PGP Public Key: [A2E75A4FADAABBF350EAC21430777113C577FD6C.asc](https://raw.githubusercontent.com/fawdlstty/fawdlstty/master/A2E75A4FADAABBF350EAC21430777113C577FD6C.asc)
