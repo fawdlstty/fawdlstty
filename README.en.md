@@ -9,6 +9,7 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 Currently focus:
 
 <p>
+<a href="https://github.com/fawdlstty/computer_worldview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=computer_worldview&bg_color=00000010&text_color=c78944" /></a>
 <a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
 <a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
 </p>
@@ -54,6 +55,7 @@ Currently focus:
 | Repo | Star | Description |
 | :--- | :---: | :--- |
 | <b>Fun</b> |  |  |
+| [computer_worldview](https://github.com/fawdlstty/computer_worldview) :earth_asia: | ![](https://img.shields.io/github/stars/fawdlstty/computer_worldview.svg?style=flat-square) | 《计算机世界观》 助你塑造正确的计算机世界观 |
 | [poems](https://github.com/fawdlstty/poems) :notes: | ![](https://img.shields.io/github/stars/fawdlstty/poems.svg?style=flat-square) | 计算机系诗歌，贴出来大家一起乐呵乐呵 |
 | <b>Compiler</b> |  |  |
 | [fa-org/fa](https://github.com/fa-org/fa) :rabbit: | ![](https://img.shields.io/github/stars/fa-org/fa.svg?style=flat-square) | fa 语言编译器 |
