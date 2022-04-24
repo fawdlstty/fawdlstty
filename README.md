@@ -9,7 +9,10 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 当前专注于：
 
 <p>
+<a href="https://github.com/fawdlstty/libfv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=libfv&bg_color=00000010&text_color=c78944" /></a>
 <a href="https://github.com/fawdlstty/computer_worldview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=computer_worldview&bg_color=00000010&text_color=c78944" /></a>
+</p>
+<p>
 <a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
 <a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
 </p>
