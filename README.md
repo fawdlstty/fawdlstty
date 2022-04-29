@@ -6,24 +6,6 @@
 
 Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但是 Fawdlstty 的 Github 是怎么会事呢？下面就让小编带大家一起来了解一下吧~
 
-当前专注于：
-
-<p>
-<a href="https://github.com/fawdlstty/libfv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=libfv&bg_color=00000010&text_color=c78944" /></a>
-<a href="https://github.com/fawdlstty/computer_worldview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=computer_worldview&bg_color=00000010&text_color=c78944" /></a>
-</p>
-<p>
-<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
-</p>
-
-## 统计
-
-<p>
-<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
-</p>
-
 ## 环境
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white) ![SQLite3](https://img.shields.io/badge/-SQLite3-0d7eca?style=flat-square&logo=sqlite&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-36954f?style=flat-square&logo=nginx&logoColor=white) ![lua](https://img.shields.io/badge/-lua-030380?style=flat-square&logo=lua&logoColor=white)
@@ -39,6 +21,13 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | *前端* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) |
 | *爬虫* | ![[C++] Wke](https://img.shields.io/badge/C++-Wke-426166?style=flat-square&logo=C%2b%2b&logoColor=white) ![[Python] Requests](https://img.shields.io/badge/Python-Requests-333333?style=flat-square&logo=Python&logoColor=white) ![[Python] Selenium](https://img.shields.io/badge/Python-Selenium-43ae2a?style=flat-square&logo=Python&logoColor=white) |
 
+## 统计
+
+<p>
+<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+</p>
+
 ## 参与贡献 (PR)
 
 | 仓库 | 项目类别 | 星星 | 链接 | 备注 |
@@ -52,6 +41,17 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [#116](https://github.com/samuelneff/MimeTypeMap/pull/116) | - |
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [#62](https://github.com/nacos-group/nacos-sdk-cpp/pull/62) | 新增特性 |
 | [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | - | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [#7](https://github.com/xmh0511/xfinal/pull/7) | 新增特性 |
+
+## 当前专注
+
+<p>
+<a href="https://github.com/fawdlstty/libfv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=libfv&bg_color=00000010&text_color=c78944" /></a>
+<a href="https://github.com/fawdlstty/computer_worldview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=computer_worldview&bg_color=00000010&text_color=c78944" /></a>
+</p>
+<p>
+<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
+<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
+</p>
 
 ## 项目导航
 
@@ -78,6 +78,7 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | [SVGAPlayer-Gdip](https://github.com/fawdlstty/SVGAPlayer-Gdip) :sailboat: | ![](https://img.shields.io/github/stars/fawdlstty/SVGAPlayer-Gdip.svg?style=flat-square) | 基于 GDI+ 的 SVGA 解析库 |
 | [hm_QRcode](https://github.com/fawdlstty/hm_QRcode) | ![](https://img.shields.io/github/stars/fawdlstty/hm_QRcode.svg?style=flat-square) | VS2013下 动图二维码生成器 |
 | <b>其他</b> |  |  |
+| [libfv](https://github.com/fawdlstty/libfv) :dolphin: | ![](https://img.shields.io/github/stars/fawdlstty/libfv.svg?style=flat-square) | 基于 boost.asio 的 C++20 纯头文件异步 HTTP 库 |
 | [taskpool](https://github.com/fawdlstty/taskpool) :basketball: | ![](https://img.shields.io/github/stars/fawdlstty/taskpool.svg?style=flat-square) | Modern C++ 任务池，纯同步方式实现完全等价于 async/await 的效果 |
 | [SMLite](https://github.com/fawdlstty/SMLite) :vertical_traffic_light: | ![](https://img.shields.io/github/stars/fawdlstty/SMLite.svg?style=flat-square) | 支持 C, C++, C#, Java, JavaScript, Python, VB.Net 语言的状态机库 |
 | [IpQuery_QQWry](https://github.com/fawdlstty/IpQuery_QQWry) :cocktail: | ![](https://img.shields.io/github/stars/fawdlstty/IpQuery_QQWry.svg?style=flat-square) | 纯真IP数据库查询（C++、C#） |

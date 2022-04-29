@@ -4,25 +4,7 @@
 
 [简体中文](./README.md) | English
 
-How about Fawdlstty's Github? I believe we're all familiar with Github, but what about Fawdlstty's Github? Let the following me take you to understand it~  
-
-Currently focus:
-
-<p>
-<a href="https://github.com/fawdlstty/libfv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=libfv&bg_color=00000010&text_color=c78944" /></a>
-<a href="https://github.com/fawdlstty/computer_worldview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=computer_worldview&bg_color=00000010&text_color=c78944" /></a>
-</p>
-<p>
-<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
-</p>
-
-## Statistics
-
-<p>
-<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
-</p>
+How about Fawdlstty's Github? I believe we're all familiar with Github, but what about Fawdlstty's Github? Let the following me take you to understand it~
 
 ## Environment
 
@@ -39,6 +21,13 @@ Currently focus:
 | *Frontend* | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) |
 | *Spider* | ![[C++] Wke](https://img.shields.io/badge/C++-Wke-426166?style=flat-square&logo=C%2b%2b&logoColor=white) ![[Python] Requests](https://img.shields.io/badge/Python-Requests-333333?style=flat-square&logo=Python&logoColor=white) ![[Python] Selenium](https://img.shields.io/badge/Python-Selenium-43ae2a?style=flat-square&logo=Python&logoColor=white) |
 
+## Statistics
+
+<p>
+<img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+</p>
+
 ## Pull Requests
 
 | Repo | Type | Star | Link | Comment |
@@ -52,6 +41,17 @@ Currently focus:
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [#116](https://github.com/samuelneff/MimeTypeMap/pull/116) | - |
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | Distributed | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [#62](https://github.com/nacos-group/nacos-sdk-cpp/pull/62) | New feature |
 | [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | - | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [#7](https://github.com/xmh0511/xfinal/pull/7) | New feature |
+
+## Focusing
+
+<p>
+<a href="https://github.com/fawdlstty/libfv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=libfv&bg_color=00000010&text_color=c78944" /></a>
+<a href="https://github.com/fawdlstty/computer_worldview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=computer_worldview&bg_color=00000010&text_color=c78944" /></a>
+</p>
+<p>
+<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
+<a href="https://github.com/fawdlstty/fascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=fascript&bg_color=00000010&text_color=c78944" /></a>
+</p>
 
 ## Repo Navigator
 
@@ -78,6 +78,7 @@ Currently focus:
 | [SVGAPlayer-Gdip](https://github.com/fawdlstty/SVGAPlayer-Gdip) :sailboat: | ![](https://img.shields.io/github/stars/fawdlstty/SVGAPlayer-Gdip.svg?style=flat-square) | 基于 GDI+ 的 SVGA 解析库 |
 | [hm_QRcode](https://github.com/fawdlstty/hm_QRcode) | ![](https://img.shields.io/github/stars/fawdlstty/hm_QRcode.svg?style=flat-square) | VS2013下 动图二维码生成器 |
 | <b>Other</b> |  |  |
+| [libfv](https://github.com/fawdlstty/libfv) :dolphin: | ![](https://img.shields.io/github/stars/fawdlstty/libfv.svg?style=flat-square) | 基于 boost.asio 的 C++20 纯头文件异步 HTTP 库 |
 | [taskpool](https://github.com/fawdlstty/taskpool) :basketball: | ![](https://img.shields.io/github/stars/fawdlstty/taskpool.svg?style=flat-square) | Modern C++ 任务池，纯同步方式实现完全等价于 async/await 的效果 |
 | [SMLite](https://github.com/fawdlstty/SMLite) :vertical_traffic_light: | ![](https://img.shields.io/github/stars/fawdlstty/SMLite.svg?style=flat-square) | 支持 C, C++, C#, Java, JavaScript, Python, VB.Net 语言的状态机库 |
 | [IpQuery_QQWry](https://github.com/fawdlstty/IpQuery_QQWry) :cocktail: | ![](https://img.shields.io/github/stars/fawdlstty/IpQuery_QQWry.svg?style=flat-square) | 纯真IP数据库查询（C++、C#） |
