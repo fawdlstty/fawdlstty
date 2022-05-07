@@ -78,7 +78,7 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 | [SVGAPlayer-Gdip](https://github.com/fawdlstty/SVGAPlayer-Gdip) :sailboat: | ![](https://img.shields.io/github/stars/fawdlstty/SVGAPlayer-Gdip.svg?style=flat-square) | 基于 GDI+ 的 SVGA 解析库 |
 | [hm_QRcode](https://github.com/fawdlstty/hm_QRcode) | ![](https://img.shields.io/github/stars/fawdlstty/hm_QRcode.svg?style=flat-square) | VS2013下 动图二维码生成器 |
 | <b>Other</b> |  |  |
-| [libfv](https://github.com/fawdlstty/libfv) :dolphin: | ![](https://img.shields.io/github/stars/fawdlstty/libfv.svg?style=flat-square) | 基于 boost.asio 的 C++20 纯头文件异步 HTTP 库 |
+| [libfv](https://github.com/fawdlstty/libfv) :dolphin: | ![](https://img.shields.io/github/stars/fawdlstty/libfv.svg?style=flat-square) | libfv is C++20 header-only network library, support TCP/SSL/Http/websocket server and client |
 | [taskpool](https://github.com/fawdlstty/taskpool) :basketball: | ![](https://img.shields.io/github/stars/fawdlstty/taskpool.svg?style=flat-square) | Modern C++ 任务池，纯同步方式实现完全等价于 async/await 的效果 |
 | [SMLite](https://github.com/fawdlstty/SMLite) :vertical_traffic_light: | ![](https://img.shields.io/github/stars/fawdlstty/SMLite.svg?style=flat-square) | 支持 C, C++, C#, Java, JavaScript, Python, VB.Net 语言的状态机库 |
 | [IpQuery_QQWry](https://github.com/fawdlstty/IpQuery_QQWry) :cocktail: | ![](https://img.shields.io/github/stars/fawdlstty/IpQuery_QQWry.svg?style=flat-square) | 纯真IP数据库查询（C++、C#） |
