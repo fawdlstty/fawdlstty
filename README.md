@@ -25,8 +25,8 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 <p>
 
-[![](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944&card_width=480)](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944&card_width=480)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS)](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS)
+[![](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944)](https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS&card_width=300)](https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS&card_width=300)
 
 </p>
 
