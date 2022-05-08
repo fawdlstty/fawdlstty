@@ -33,10 +33,11 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | 仓库 | 项目类别 | 星星 | 链接 | 备注 |
 | :--- | :---: | :---: | :---: | :---: |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | - | ![](https://img.shields.io/github/stars/microsoft/vcpkg.svg?style=flat-square) | [#23120](https://github.com/microsoft/vcpkg/pull/23120)、[#23179](https://github.com/microsoft/vcpkg/pull/23179) | - |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
 | [gabime/spdlog](https://github.com/gabime/spdlog) | - | ![](https://img.shields.io/github/stars/gabime/spdlog.svg?style=flat-square) | [#1847](https://github.com/gabime/spdlog/pull/1847) | 新增特性、[v1.8.3](https://github.com/gabime/spdlog/releases/tag/v1.8.3) |
+| [Tencent/ncnn](https://github.com/Tencent/ncnn) | 人工智能 | ![](https://img.shields.io/github/stars/Tencent/ncnn.svg?style=flat-square) | [#2201](https://github.com/Tencent/ncnn/pull/2201) | - |
 | [zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN) | 人工智能 | ![](https://img.shields.io/github/stars/zuoqing1988/ZQCNN.svg?style=flat-square) | [#163](https://github.com/zuoqing1988/ZQCNN/pull/163)、[#165](https://github.com/zuoqing1988/ZQCNN/pull/165) | 修复 bug |
 | [dotnetcore/HttpReports](https://github.com/dotnetcore/HttpReports) | 数据可视化 | ![](https://img.shields.io/github/stars/dotnetcore/HttpReports.svg?style=flat-square) | [#31](https://github.com/dotnetcore/HttpReports/pull/31) | 新增特性 |
+| [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) | - | ![](https://img.shields.io/github/stars/p-ranav/awesome-hpp.svg?style=flat-square) | [#76](https://github.com/p-ranav/awesome-hpp/pull/76) | - |
 | [rigaya/NVEnc](https://github.com/rigaya/NVEnc) | 测试 | ![](https://img.shields.io/github/stars/rigaya/NVEnc.svg?style=flat-square) | [#180](https://github.com/rigaya/NVEnc/pull/180) | - |
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [#116](https://github.com/samuelneff/MimeTypeMap/pull/116) | - |
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [#62](https://github.com/nacos-group/nacos-sdk-cpp/pull/62) | 新增特性 |
