@@ -23,6 +23,10 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 
 ## Statistics
 
+<img style="width: 480px;" src="https://github-readme-stats-one-bice.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=en&line_height=24&bg_color=00000010&text_color=c78944&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
+
+Haha, it's a joke, I have no many stars. It's right here:
+
 <p>
 <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=en&line_height=24&bg_color=00000010&text_color=c78944" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
