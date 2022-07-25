@@ -1,4 +1,4 @@
-# Fawdlstty order recving
+# Fawdlstty is looking for a job
 
 <img align="right" src="imgs/rice_shower.jpg" />
 

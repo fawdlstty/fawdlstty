@@ -1,4 +1,4 @@
-# Fawdlstty 接单中
+# Fawdlstty 求职中
 
 <img align="right" src="imgs/rice_shower.jpg" />
 
