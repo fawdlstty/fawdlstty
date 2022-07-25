@@ -8,7 +8,16 @@ How about Fawdlstty's Github? I believe we're all familiar with Github, but what
 
 ## Environment
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white) ![SQLite3](https://img.shields.io/badge/-SQLite3-0d7eca?style=flat-square&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white)
+![SQLite3](https://img.shields.io/badge/-SQLite3-0d7eca?style=flat-square&logo=sqlite&logoColor=white)
 
 ## Skill List
 
