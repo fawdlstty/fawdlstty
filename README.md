@@ -1,4 +1,4 @@
-# Fawdlstty [求职中](https://github.com/fawdlstty/I_AM_LOOKING_FOR_A_JOB)
+# Fawdlstty <!--[求职中](https://github.com/fawdlstty/I_AM_LOOKING_FOR_A_JOB)-->
 
 <img align="right" src="imgs/rice_shower.jpg" />
 
