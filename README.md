@@ -105,6 +105,6 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 <!--https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C-->
 PGP公钥：[D31B6F80429061C1C45E6C49CD27B53846CDD4AE.asc](https://raw.githubusercontent.com/fawdlstty/fawdlstty/master/D31B6F80429061C1C45E6C49CD27B53846CDD4AE.asc)
 
-## 饿饿，饭饭
+<!--## 饿饿，饭饭
 
-[投喂](donate.jpg)
+[投喂](donate.jpg)-->

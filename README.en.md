@@ -105,6 +105,6 @@ Haha, it's a joke, I have no many stars. It's right here:
 <!--https://keys.openpgp.org/vks/v1/by-fingerprint/A2E75A4FADAABBF350EAC21430777113C577FD6C-->
 PGP Public Key: [D31B6F80429061C1C45E6C49CD27B53846CDD4AE.asc](https://raw.githubusercontent.com/fawdlstty/fawdlstty/master/D31B6F80429061C1C45E6C49CD27B53846CDD4AE.asc)
 
-## Hungry, rice
+<!--## Hungry, rice
 
-[Donate](donate.jpg)
+[Donate](donate.jpg)-->
