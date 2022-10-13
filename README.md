@@ -32,9 +32,9 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 ## 统计
 
-<img style="width: 480px;" src="https://github-readme-stats-one-bice.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
+<!--<img style="width: 480px;" src="https://github-readme-stats-one-bice.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
 
-哈哈，开个玩笑，没这么多Star。来个正确的：
+哈哈，开个玩笑，没这么多Star。来个正确的：-->
 
 <p>
 <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=fawdlstty&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
