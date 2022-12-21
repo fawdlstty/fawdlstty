@@ -10,12 +10,13 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10b981?style=flat-square&logo=rockylinux&logoColor=white)
+![Kubuntu](https://img.shields.io/badge/-Kubuntu-0079c1?style=flat-square&logo=kubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/-SVN-7E9BC7?style=flat-square&logo=subversion&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2f6190?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-0d7eca?style=flat-square&logo=sqlite&logoColor=white)
 
@@ -56,13 +57,6 @@ Fawdlstty 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但�
 | [samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap) | - | ![](https://img.shields.io/github/stars/samuelneff/MimeTypeMap.svg?style=flat-square) | [#116](https://github.com/samuelneff/MimeTypeMap/pull/116) | - |
 | [nacos-group/nacos-sdk-cpp](https://github.com/nacos-group/nacos-sdk-cpp) | 分布式 | ![](https://img.shields.io/github/stars/nacos-group/nacos-sdk-cpp.svg?style=flat-square) | [#62](https://github.com/nacos-group/nacos-sdk-cpp/pull/62) | 新增特性 |
 | [xmh0511/xfinal](https://github.com/xmh0511/xfinal) | - | ![](https://img.shields.io/github/stars/xmh0511/xfinal.svg?style=flat-square) | [#7](https://github.com/xmh0511/xfinal/pull/7) | 新增特性 |
-
-## 当前专注
-
-<p>
-<a href="https://github.com/fawdlstty/libfv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fawdlstty&repo=libfv&bg_color=00000010&text_color=c78944" /></a>
-<a href="https://github.com/fa-org/fa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fa-org&repo=fa&bg_color=00000010&text_color=c78944&show_owner=true" /></a>
-</p>
 
 ## 项目导航
 
